@@ -2,6 +2,20 @@
 
 > Production-ready machine learning system for generating trading signals with comprehensive monitoring and deployment automation.
 
+🚧 Active Development Notice
+⚠️ This project is continuously evolving! This repository represents an ongoing exploration of machine learning applications in quantitative finance. I'm constantly experimenting with:
+
+🔬 New Model Architectures: Testing different ML approaches (Random Forest → XGBoost → Neural Networks → Transformers)
+🎯 Advanced Feature Engineering: Exploring alternative technical indicators and market microstructure features
+📈 Model Fine-tuning: Hyperparameter optimization and cross-validation strategies
+🧪 Alternative Data Sources: Incorporating news sentiment, volatility surfaces, and market regime detection
+⚡ Performance Optimization: Latency improvements and real-time processing enhancements
+
+Current Version: v1.0 (Random Forest Baseline)
+Next Planned Updates: Deep learning models with LSTM/Attention mechanisms
+Last Updated: June 2025
+Consider this a living laboratory where I document my journey in applying cutting-edge ML to financial markets. Each commit represents a step forward in building production-ready trading systems.
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)](https://fastapi.tiangolo.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.2-orange)](https://scikit-learn.org/)

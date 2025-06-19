@@ -110,7 +110,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Train the model
-python trading_model_fixed.py
+python trading_model.py
 
 # Start the API
 python enhanced_api.py
